@@ -137,3 +137,5 @@ If the password is strong, displays a success message.
 
 
 If the password is weak, displays the specific reason and lists all criteria for a strong password.
+<img width="1468" height="508" alt="image" src="https://github.com/user-attachments/assets/ebf9b374-0775-47a5-a1cf-4a4f9fab3f02" />
+
