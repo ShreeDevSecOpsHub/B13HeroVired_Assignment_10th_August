@@ -36,7 +36,7 @@ File
 
 
 
-password_strength_checker.py: The main Python script that implements the password strength checking functionality.
+Password_Strength_checker.py: The main Python script that implements the password strength checking functionality.
 
 Requirements
 
