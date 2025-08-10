@@ -105,23 +105,8 @@ if __name__ == "__main__":
 
 ## Example Output
 ### Strong Password
-```
-Password Strength Checker
-------------------------
-Enter a password to check: Password123!
+<img width="1452" height="180" alt="image" src="https://github.com/user-attachments/assets/aca1f5a6-e0f1-4af0-8e55-00f9a2d995a6" />
 
-Success: Password is strong
-```
 
 ### Weak Password
-```
-Password Strength Checker
-------------------------
-Enter a password to check: pass
-
-Weak password: Password must be at least 8 characters long
-A strong password should:
-- Be at least 8 characters long
-- Contain both uppercase and lowercase letters
-- Include at least one digit
-- Include at least one special character (e.g., !, @, #, $, %
+<img width="1458" height="265" alt="image" src="https://github.com/user-attachments/assets/f218ac90-dcb5-44c3-93b8-169eac681112" />
