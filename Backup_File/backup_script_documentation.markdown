@@ -124,15 +124,8 @@ if __name__ == "__main__":
    - Display progress messages and errors, if any.
 
 ## Example Output
-```
-Starting backup from '/path/to/source' to '/path/to/destination'...
-Created destination directory '/path/to/destination'.
-Copied 'document.txt' to '/path/to/destination/document.txt'.
-File 'notes.txt' already exists, saving as 'notes_20250810_230405.txt'.
-Copied 'notes.txt' to '/path/to/destination/notes_20250810_230405.txt'.
-Error copying 'image.jpg': Permission denied
-Backup completed.
-```
+<img width="1457" height="112" alt="image" src="https://github.com/user-attachments/assets/fdc007ef-e3d2-4abb-b86a-b4587ff7d8d5" />
+
 
 ## Error Handling
 - **Invalid Arguments**: If the script is run with fewer or more than two arguments, it prints usage instructions and exits.
