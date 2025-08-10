@@ -66,11 +66,8 @@ if __name__ == "__main__":
 ---
 
 ## Example Output
-```text
-Monitoring CPU usage... (Press Ctrl+C to stop)
-Alert! CPU usage exceeds threshold: 85%
-Alert! CPU usage exceeds threshold: 90%
-```
+<img width="1447" height="282" alt="image" src="https://github.com/user-attachments/assets/1a442df2-253a-4aff-a802-ae4bfb10f990" />
+
 
 ---
 
